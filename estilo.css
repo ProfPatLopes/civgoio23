@@ -11,7 +11,7 @@
     width: 150px;    
 }
 body{
-    background-color:rgba(160, 149, 100);
+    background-color:rgb(107, 206, 83);
     font-family: 'Lucida Sans';
     font-size: small; 
     color: #fdfdfd;
@@ -33,7 +33,8 @@ h3{
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
-    background-color:rgb(107, 206, 83);
+    color:rgb(30, 99, 13);
+    background-color:rgb(179, 235, 165);
 }
 .lista {
     font-family: 'Lucida Sans';
