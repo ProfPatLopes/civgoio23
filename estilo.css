@@ -1,9 +1,9 @@
 .avataraluno{
-    /*width: 100px;
-    max-width: 100px;
- max-height: 100px; */
- width: auto; 
-  
+    width: 100px;
+}
+
+.avataralunop{
+    width: 300px;
 }
 
 .prof{
@@ -54,7 +54,7 @@ h3{
 }
 .itens {
     background-color: rgb(211, 204, 174);
-    height:100px;
+    
 }
 .apre {
 color:rgb(66, 56, 10);
