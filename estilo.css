@@ -5,7 +5,7 @@ width: 1440px;
 height: 114px;
 left: 0px;
 top: 0px;
-    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+background: linear-gradient(180deg, #9BC428 0%, #4A6109 100%);    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
 }
 .prof{
     position: absolute;
@@ -44,7 +44,7 @@ top: 0px;
     height: 27px;
     left: 0px;
     top: 119px;
-    background-color:rgb(66, 56, 10);
+    background: #4A6109;
 }
 
 body{
@@ -93,11 +93,24 @@ width: 1440px;
 height: 114px;
 left: 1px;
 top: 625px;  
-background: linear-gradient(180deg, rgba(99, 86, 43, 0) 0%, #63562B 100%);
+
+background: linear-gradient(180deg, #4A6109 0%, #9BC428 57.29%);
 
 }
 .bloco {
     display: block;
+}
+
+footer{
+    position: absolute;
+   
+    left: -1px;
+top: 600px;
+    width: 1440px;
+    height: 27px;
+    background: #63562B;
+
+   background: #4A6109;
 }
 .itens {
     
