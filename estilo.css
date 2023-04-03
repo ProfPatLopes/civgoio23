@@ -5,7 +5,7 @@ width: 1440px;
 height: 114px;
 left: 0px;
 top: 0px;
-background: linear-gradient(180deg, #9BC428 0%, #4A6109 100%);    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+background: linear-gradient(180deg, #3D6325 47.92%, #9BC428 100%);
 }
 .prof{
     position: absolute;
@@ -64,6 +64,15 @@ body{
     width: 250px;
 }
 
+.itens {
+    
+    position: absolute;
+    width: 1454px;
+    height: 762px;
+    left: -6px;
+    top: 147px; 
+}
+
 h3{
     
     font-family: 'Lucida Sans';
@@ -104,20 +113,5 @@ height: 114px;
 
 left: -2px;
 top: 813px;
+background: linear-gradient(180deg, #9BC428 0%, #3D6325 47.92%);
 
-background: linear-gradient(180deg, #4A6109 0%, #9BC428 57.29%);
-
-}
-.bloco {
-    display: block;
-}
-
-
-.itens {
-    
-    position: absolute;
-    width: 1454px;
-    height: 762px;
-    left: -6px;
-    top: 147px; 
-}
