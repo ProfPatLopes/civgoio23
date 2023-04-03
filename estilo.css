@@ -10,6 +10,26 @@
     width: 25%;    
 }
 
+.menu {
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 12px;
+    position: absolute;
+    width: 1440px;
+    height: 27px;
+    left: 0px;
+    top: 119px;
+    background-color:rgb(66, 56, 10);
+}
+.apre {
+    color:rgb(66, 56, 10);
+    position: absolute;
+    width: 1440px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #42380A 37.5%, rgba(66, 56, 10, 0) 100%);
+}
 body{
     background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
@@ -36,12 +56,7 @@ h3{
     background-color:rgb(66, 56, 10);
 }
 
-.menu {
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    font-size: 12px;
-    background-color:rgb(66, 56, 10);
-}
+
 .lista {
     font-family: 'Lucida Sans';
     font-size: small; 
@@ -55,7 +70,4 @@ h3{
 .itens {
     background-color: rgb(211, 204, 174);
     
-}
-.apre {
-color:rgb(66, 56, 10);
 }
