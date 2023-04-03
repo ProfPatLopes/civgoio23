@@ -1,5 +1,5 @@
 .apre {
-    color:rgb(66, 56, 10);
+    color: #4A6109;
     position: absolute;
 width: 1440px;
 height: 114px;
@@ -78,7 +78,7 @@ h3{
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
-    background-color:rgb(66, 56, 10);
+    background-color: #4A6109;
 }
 footer{
     position: absolute;
@@ -87,7 +87,7 @@ footer{
     top:750px;
     width: 1440px;
     height: 27px;
-    background: #63562B;
+   
 
    background: #4A6109;
 }
@@ -96,7 +96,7 @@ font-family: 'Lucida Sans';
 font-size: small; 
 text-align: left;
 font-size: 12px;
-color:rgb(66, 56, 10);
+color: #4A6109;
 
 position: absolute;
 width: 1440px;
