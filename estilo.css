@@ -80,7 +80,17 @@ h3{
     font-size: 12px;
     background-color:rgb(66, 56, 10);
 }
+footer{
+    position: absolute;
+   
+    left: -1px;
+    top:750px;
+    width: 1440px;
+    height: 27px;
+    background: #63562B;
 
+   background: #4A6109;
+}
 .lista{
 font-family: 'Lucida Sans';
 font-size: small; 
@@ -102,17 +112,7 @@ background: linear-gradient(180deg, #4A6109 0%, #9BC428 57.29%);
     display: block;
 }
 
-footer{
-    position: absolute;
-   
-    left: -1px;
-top: 600px;
-    width: 1440px;
-    height: 27px;
-    background: #63562B;
 
-   background: #4A6109;
-}
 .itens {
     
     position: absolute;
