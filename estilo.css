@@ -1,6 +1,3 @@
-*{
-    margin:auto;
-}
 .apre {
     color: #B1A640;
     position: absolute;
@@ -97,7 +94,7 @@ h3{
 }
 footer{
     position: absolute;
-   
+    margin:auto;
     left: -1px;
     top:786px;
     width: 1440px;
