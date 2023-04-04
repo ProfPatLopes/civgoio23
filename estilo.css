@@ -1,11 +1,11 @@
 .apre {
-    color: #4A6109;
+    color: #B1A640;
     position: absolute;
 width: 1440px;
 height: 114px;
 left: 0px;
 top: 0px;
-background: linear-gradient(180deg, #3D6325 47.92%, #9BC428 100%);
+background: linear-gradient(180deg, #958D4A 0%, #BEB883 100%);
 }
 .prof{
     position: absolute;
@@ -18,16 +18,18 @@ background: linear-gradient(180deg, #3D6325 47.92%, #9BC428 100%);
 
 .oi {
     position: absolute;
-    width: 1000px;
-    height: 23px;
-    left: 287px;
-    top: 32px;
+    width: 678px;
+    height: 39px;
+    left: 410px;
+    top: 42px;
 
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
+    font-size: 32px;
+    line-height: 39px;
+
+   
 
     color: #FFFFFF;
 
@@ -87,7 +89,7 @@ h3{
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
-    background-color: #4A6109;
+    background-color: #BEB883;
 }
 footer{
     position: absolute;
@@ -98,14 +100,14 @@ footer{
     height: 27px;
    
 
-   background: #4A6109;
+   background: #BEB883;
 }
 .lista{
 font-family: 'Lucida Sans';
 font-size: small; 
 text-align: left;
 font-size: 12px;
-color: #4A6109;
+color: #B1A640;
 
 position: absolute;
 width: 1440px;
@@ -113,5 +115,6 @@ height: 114px;
 
 left: -2px;
 top: 813px;
-background: linear-gradient(180deg, #9BC428 0%, #3D6325 47.92%);
+background: linear-gradient(180deg, #BEB883 0%, #958D4A 100%);
+
 
