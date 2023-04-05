@@ -53,7 +53,24 @@ color: #B1A640;*/
     background: #829243;
 
 }
+.des{
+    position: absolute;
+width: 339px;
+height: 46px;
+left: 18px;
+top: 127px;
 
+font-family: 'M PLUS 2';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 46px;
+
+color: #F5F5F5;
+
+border: 1px solid #FFFAFA;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 body{
     background-color: #BEB883;
     font-family: 'Lucida Sans';
