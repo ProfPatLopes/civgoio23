@@ -1,13 +1,22 @@
+body{
+    
+    background-color: #BEB883;
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    color: #fdfdfd;
+    text-align: center;
+    display: inline;
+    font-size: 14px;
+}
 .cabecalho {
-   
-    position: absolute;
+       position: absolute;
 width: 1440px;
 height: 114px;
 left: 0px;
 top: 0px;
 background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 }
-.cabeçalho-imagem{
+.cabecalho-imagem{
     position: absolute;
     width: 111px;
     height: 117px;
@@ -17,7 +26,7 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 
 }
 
-.cabecacalho-apre {
+.cabecalho-apre {
     position: absolute;
     width: 678px;
     height: 39px;
@@ -75,16 +84,7 @@ color: #F5F5F5;
 border: 1px solid #FFFAFA;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-body{
-    
-    background-color: #BEB883;
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-}
+
 
 
 .avataralunop{
