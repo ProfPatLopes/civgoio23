@@ -61,7 +61,9 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 
 }
 .cabec-lista-item{
+    position: absolute;
     color:#FFFFFF;
+    height: 23px;
     padding: 4px;
     display: inline-block;
     margin: 0 16px;
