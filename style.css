@@ -8,7 +8,7 @@ body{
     display: inline;
     font-size: 14px;
 }
-.cabecalho {
+.cabec {
        position: absolute;
 width: 1440px;
 height: 114px;
@@ -16,7 +16,7 @@ left: 0px;
 top: 0px;
 background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 }
-.cabecalho-imagem{
+.cabec-imagem{
     position: absolute;
     width: 111px;
     height: 117px;
@@ -26,7 +26,7 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 
 }
 
-.cabecalho-apre {
+.cabec-apre {
     position: absolute;
     width: 678px;
     height: 39px;
@@ -47,7 +47,7 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 }
 
 
-.cabecalho-lista {
+.cabec-lista {
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
@@ -60,7 +60,7 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
     background: #829243;
 
 }
-.cabecalho-lista-item{
+.cabec-lista-item{
     color:#FFFFFF;
     padding: 4px;
     display: inline-block;
