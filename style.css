@@ -1,5 +1,5 @@
 body{
-    
+    width: 1440px;
     background-color: #BEB883;
     font-family: 'Lucida Sans';
     font-size: small; 
@@ -48,11 +48,12 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 
 
 .cabec-lista {
+    width: 1440px;
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
     position: absolute;
-    width: 1440px;
+    
     height: 27px;
     left: 0px;
     top: 114px;
