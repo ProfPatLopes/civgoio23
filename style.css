@@ -140,7 +140,6 @@ h3{
 }
 footer{
     padding: 4px;
-    
     position: absolute;
     margin:auto;
     left: -1px;
@@ -153,7 +152,7 @@ footer{
 font-family: 'Lucida Sans';
 font-size: small; 
 text-align: left;
-font-size: 14px;
+font-size: 12px;
 color:#829243;
 
 position: absolute;
