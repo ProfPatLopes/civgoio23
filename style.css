@@ -64,8 +64,9 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
     top:125px;
     color:#FFFFFF;
     height: 23px;
-    padding: 4px;
+    
     display: inline-block;
+    padding: 4px;
     margin: 0 16px;
     
 }
@@ -138,13 +139,14 @@ h3{
     background-color: #BEB883;
 }
 footer{
+    padding: 4px;
+    
     position: absolute;
     margin:auto;
     left: -1px;
     top:786px;
     width: 1440px;
     height: 27px;
-       /*background: #958D4A;*/
     background: #829243;
 }
 .lista{
