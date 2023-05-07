@@ -48,7 +48,7 @@ background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
 
 
 .cabec-lista {
-    width: 1440px;
+    width: 1400px;
     font-family: 'Lucida Sans';
     font-size: small; 
     font-size: 12px;
@@ -98,7 +98,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 .itens {
     
     position: absolute;
-    width: 1454px;
+    width: 1440px;
     height: 762px;
     left: -6px;
     top: 147px; 
@@ -144,7 +144,7 @@ footer{
     margin:auto;
     left: -1px;
     top:786px;
-    width: 1440px;
+    width: 1433px;
     height: 27px;
     background: #829243;
 }
