@@ -72,8 +72,8 @@ background: linear-gradient(180deg, #728529 0%, #829243 51.82%, #E6EA3F 100%);
     height: 490px;
     left: 305px;
     top: 120px; 
-   
-    background: rgba(130, 146, 67, 0.86);
+    background: url(muro.png);
+    /*background: rgba(130, 146, 67, 0.86);*/
 }
 
 .estudante-todos{
