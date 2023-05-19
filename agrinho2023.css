@@ -66,6 +66,15 @@ left: 0px;
 
 background: linear-gradient(180deg, #5F7A43 64.32%, #273348 100%);
 }
+.logo{
+position: absolute;
+width: 364px;
+height: 300px;
+left: 983px;
+top: 155px;
+
+background: url(logoEscola.png);
+}
 .estudante {
     
     position: absolute;
