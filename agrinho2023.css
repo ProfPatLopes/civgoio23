@@ -12,7 +12,7 @@ body{
     left: 0px;
     top: 0px;
     
-    background: #5F7A43;
+    background:  #273348;
 }
 
 .cabec-menu-lista {
@@ -63,8 +63,8 @@ width: 1440px;
 height: 651px;
 left: 0px;
 /*background: linear-gradient(180deg, #728529 0%, #829243 51.82%, #E6EA3F 100%);*/
+background: linear-gradient(180deg, #273348 5.47%, #5F7A43 100%);
 
-background: linear-gradient(180deg, #5F7A43 64.32%, #273348 100%);
 }
 .logo{
 position: absolute;
@@ -212,6 +212,6 @@ filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     top:902px;
     position: absolute;
     color: #273348;
-    background: linear-gradient(180deg, #273348 5.47%, #5F7A43 100%);
+    background: linear-gradient(180deg, #5F7A43 64.32%, #273348 100%);
     /*background: linear-gradient(180deg, #E6EA3F 0%, #829243 86.2%, #728529 100%);*/
 }
