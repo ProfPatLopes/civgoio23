@@ -50,14 +50,14 @@ body{
 .cabec-titulo {
  
 position: absolute;
-width: 830px;
+width: 750px;
 
-left:315px;
+left:325px;
 font-family: 'Indie Flower';
 font-style: normal;
 font-weight: 400;
-font-size: 64px;
-line-height: 93px;
+font-size: 58px;
+line-height: 90px;
 display: flex;
 align-items: center;
 text-align: center;
