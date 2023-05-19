@@ -69,7 +69,7 @@ background: linear-gradient(180deg, #728529 0%, #829243 51.82%, #E6EA3F 100%);
     
     position: absolute;
     width: 830px;
-    height: 600px;
+    height: 500px;
     left: 305px;
     top: 120px; 
     background: url(muro.png);
@@ -148,7 +148,7 @@ h3{
     left: 18px;
     top: 400px;
     
- .vini{
+.vini{
     position: absolute;
 width: 339px;
 height: 434px;
@@ -166,7 +166,7 @@ filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
         filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     }
     
-footer{
+.footer {
     padding: 4px;
     position: absolute;
     margin:auto;
@@ -188,5 +188,4 @@ footer{
     position: absolute;
     color:#728529; 
     
-    background: linear-gradient(180deg, #E6EA3F 0%, #829243 86.2%, #728529 100%);
-}
+    background: linear-gradient(180deg, #E6EA3F 0%, #829243 86.2%, #728529 100%);}
