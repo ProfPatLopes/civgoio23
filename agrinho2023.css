@@ -99,7 +99,7 @@ color: #edf10f;
     position: absolute;
     width: 223px;
     left: 14px;
-    top: 300px;
+    top: 200px;
     
     font-family: 'Indie Flower';
     font-style: normal;
@@ -112,13 +112,25 @@ color: #edf10f;
     position: absolute;
     width: 223px;
     left: 14px;
-    top: 350px;
+    top: 250px;
     
     font-family: 'Indie Flower';
     font-style: normal;
     font-size: 22px;
     color: #edf10f;
     }
+    .estudante-categoria4{
+    
+        position: absolute;
+        width: 223px;
+        left: 14px;
+        top: 300px;
+        
+        font-family: 'Indie Flower';
+        font-style: normal;
+        font-size: 22px;
+        color: #edf10f;
+        }
     .estudante-div{
         text-align: center;
         padding: 16px 0;
