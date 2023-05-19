@@ -1,6 +1,6 @@
 body{
     width: 1440px;
-    background-color: #BEB883;
+    background-color: #5F7A43;
     font-family: 'Lucida Sans';
     font-size: small; 
     color: #fdfdfd;
@@ -14,7 +14,8 @@ width: 1440px;
 height: 114px;
 left: 0px;
 top: 0px;
-background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);
+background: linear-gradient(180deg, #5F7A43 15.88%, #273348 100%);
+/*background: linear-gradient(180deg, #829243 0%, rgba(130, 146, 67, 0) 100%);*/
 }
 .cabec-imagem{
     position: absolute;
@@ -167,5 +168,6 @@ height: 114px;
 
 left: -2px;
 top: 813px;
-background: linear-gradient(180deg, rgba(130, 146, 67, 0) 0%, #829243 100%);
+background: linear-gradient(180deg, #273348 14.84%, #5F7A43 100%);
+/*background: linear-gradient(180deg, rgba(130, 146, 67, 0) 0%, #829243 100%);*/
 }
