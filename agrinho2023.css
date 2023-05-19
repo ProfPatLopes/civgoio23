@@ -37,6 +37,15 @@ body{
     left: 180px;      
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
+.cabec-logo{
+    top:30px;
+    position: absolute;
+    width: 364px;
+    height: 300px;
+    left: 983px;  
+        
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
 
 .cabec-titulo {
  
@@ -66,14 +75,7 @@ left: 0px;
 background: linear-gradient(180deg, #273348 5.47%, #5F7A43 100%);
 
 }
-.logo{
-position: absolute;
-width: 364px;
-height: 300px;
-left: 983px;
-top: 155px;
 
-}
 .estudante {
     
     position: absolute;
