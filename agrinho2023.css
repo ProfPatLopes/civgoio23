@@ -99,7 +99,7 @@ color: #edf10f;
     position: absolute;
     width: 223px;
     left: 14px;
-    top: 200px;
+    top: 100px;
     
     font-family: 'Indie Flower';
     font-style: normal;
@@ -112,7 +112,7 @@ color: #edf10f;
     position: absolute;
     width: 223px;
     left: 14px;
-    top: 250px;
+    top: 200px;
     
     font-family: 'Indie Flower';
     font-style: normal;
@@ -123,8 +123,8 @@ color: #edf10f;
     
         position: absolute;
         width: 223px;
-        left: 14px;
-        top: 300px;
+        left: 270px;
+        top: 420px;
         
         font-family: 'Indie Flower';
         font-style: normal;
