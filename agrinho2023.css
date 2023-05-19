@@ -40,8 +40,8 @@ body{
 .cabec-logo{
     top:30px;
     position: absolute;
-    width: 364px;
-    height: 300px;
+    width: 300px;
+    
     left: 983px;  
         
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -166,7 +166,7 @@ h3{
  .logo{
     position: absolute;
 width: 259px;
-height: 213px;
+
 left: 973px;
 top: 282px;
  }   
