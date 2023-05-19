@@ -11,7 +11,7 @@ body{
 .cabec {
        position: absolute;
 width: 1440px;
-height: 114px;
+height: 128px;
 left: 0px;
 top: 0px;
 background: linear-gradient(180deg, #5F7A43 15.88%, #273348 100%);
@@ -152,7 +152,7 @@ footer{
     margin:auto;
     left: -1px;
     top:786px;
-    width: 1433px;
+    width: 1440px;
     background: #273348;
 }
 .lista{
