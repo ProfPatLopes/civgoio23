@@ -149,10 +149,8 @@ h3{
 footer{
     padding: 4px;
     position: absolute;
-    margin:auto;
-    left: -1px;
     top:786px;
-    width: 1440px;
+    width: 1430px;
     background: #273348;
 }
 .lista{
